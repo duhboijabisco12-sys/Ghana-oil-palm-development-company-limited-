@@ -16,13 +16,6 @@ rubber tress is a process of tapping and removing latex from it to form as a rub
 | IRRCA 825   | 2018 | Koka, Estate |
 | RRIM 600    | 2018 | Koka, Kwae   |
    
-   
-   
-   | clone       | yop  |  Location  |
-   ------------------------------------
-   | IRRCA 109   | 2018 | koka,asuom |
-   | IRRCA 825   | 2018 | Koka,estate|
-   | RRIM 600    | 2018 | koka,kwae  |
 ---
 
 
